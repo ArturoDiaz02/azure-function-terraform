@@ -1,6 +1,6 @@
-variable name_function {
+variable name_machine {
   type        = string
-  description = "Name Function"
+  description = "Name Machine"
 }
 
 variable location {
@@ -11,5 +11,5 @@ variable location {
 
 variable username {
   type        = string
-  description = "Username"
+  description = "Username vm"
 }

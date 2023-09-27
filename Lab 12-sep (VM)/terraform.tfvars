@@ -1,3 +1,3 @@
-name_function = "AUTO202302-VH"
+name_machine = "devopscourse2023icesi"
 location = "East US"
-username = "auto"
+username = "adminuser"
